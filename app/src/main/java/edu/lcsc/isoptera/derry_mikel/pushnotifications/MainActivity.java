@@ -1,3 +1,4 @@
+//Mikel Jensen and Derry Everson
 package edu.lcsc.isoptera.derry_mikel.pushnotifications;
 
 import android.graphics.Color;
@@ -44,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
                     String title = snapshot.child("title").getValue().toString();
                     String body = snapshot.child("body").getValue().toString();
                     String html = "<b>" + title + "</b><br/>" + body;
+                    //noinspection deprecation
                     tv.setText(Html.fromHtml(html));
                     linear.addView(tv, 0);
                 }

@@ -1,4 +1,3 @@
-//Mikel Jensen and Derry Everson
 package edu.lcsc.isoptera.derry_mikel.pushnotifications;
 
 import android.graphics.Color;

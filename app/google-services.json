@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295910591635",
+    "firebase_url": "https://pushnotifications-e7fb3.firebaseio.com",
+    "project_id": "pushnotifications-e7fb3",
+    "storage_bucket": "pushnotifications-e7fb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295910591635:android:3d29eb5a0b70a07e",
+        "android_client_info": {
+          "package_name": "edu.lcsc.isoptera.derry_mikel.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295910591635-g1mi6p1gu2bi0a88hcvlbbt7t5r54a0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.lcsc.isoptera.derry_mikel.pushnotifications",
+            "certificate_hash": "0c5d68749624c560accbac85e46c86346fd7a9a2"
+          }
+        },
+        {
+          "client_id": "295910591635-fdpb6qnhhtalpcrvtdc0trljvmfgacf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-0g8LCya9P1ebXUolObz3q1tkWVdjEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295910591635-fdpb6qnhhtalpcrvtdc0trljvmfgacf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
